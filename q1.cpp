@@ -33,3 +33,6 @@ int main(){
     for(auto &i: ans) cout<<i<<" ";
     cout<<endl;
 }
+
+//Time complexity : O(n)
+//space complexity: O(n)

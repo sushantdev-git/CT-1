@@ -40,3 +40,7 @@ int main(){
         }
     }
 }
+
+
+//Time complexity : O(n)
+//Space complexity: O(n)
